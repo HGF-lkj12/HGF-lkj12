@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AluraEstudante.
+- 👀 I’m interested in aprender a programar as novas linguagens.
+- 🌱 I’m currently learning a programar recentemente a linguagem de javaScript e Scratch.
